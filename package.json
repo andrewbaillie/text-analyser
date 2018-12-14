@@ -1,0 +1,22 @@
+{
+  "name": "text-analyser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbaillie/text-analyser.git"
+  },
+  "author": "Andrew Baillie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewbaillie/text-analyser/issues"
+  },
+  "homepage": "https://github.com/andrewbaillie/text-analyser#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
